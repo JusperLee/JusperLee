@@ -39,6 +39,9 @@ Hi, I'm Kai Li, a Student 🎒 from China, currently, I'm a Teaching assistant �
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 ![JusperLee's github stats](https://github-readme-stats.vercel.app/api?username=JusperLee&show_icons=true&hide_border=true)
