@@ -13,6 +13,3 @@ jobs:
       - uses: JusperLee/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: <username>
-          SHOW_TITLE: true
