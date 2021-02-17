@@ -40,7 +40,8 @@ Hi, I'm Kai Li, a Student 🎒 from China, currently, I'm a Teaching assistant �
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python      0 secs              █████████████████████████   100.00 %
+Python      2 hrs 7 mins        ████████████████████████░   99.19 % 
+Text        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 <!--END_SECTION:waka-->
 
