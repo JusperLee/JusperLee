@@ -34,7 +34,6 @@ Hi, I'm Kai Li, a Student 🎒 from China, currently, I'm an intern at [@Tencent
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80
   
 ![JusperLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JusperLee&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![JusperLee](https://github-readme-stats.vercel.app/api/top-langs/?username=JusperLee&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JusperLee&theme=monokai&count_private=true&include_all_commits=true)
