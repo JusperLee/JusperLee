@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Kai Li, a Student 🎒 from China, currently, I'm an intern at [@Tencent AI Lab](https://ai.tencent.com/ailab/zh/index). And I used to be a Teaching assistant 🎓 [@Qinghai University](https://www.qhu.edu.cn/), Research Assistant 👨🏽‍🔮 [@Tsinghua University](https://www.tsinghua.edu.cn/), Taichi Developer 👨🏽‍🎲[@Taichi](https://github.com/taichi-dev). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Kai Li, a Master🎒 from Tsinghua University, currently. And I used to be an intern at [@Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), Teaching assistant 🎓 [@Qinghai University](https://www.qhu.edu.cn/), Research Assistant 👨🏽‍🔮 [@Tsinghua University](https://www.tsinghua.edu.cn/), Taichi Developer 👨🏽‍🎲[@Taichi](https://github.com/taichi-dev). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
