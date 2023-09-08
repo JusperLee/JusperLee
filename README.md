@@ -7,8 +7,6 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<br/>
-
 My name is Kai Li (Chinese name: 李凯). I'm a second-year master student at Department of Computer Science and Technology, Tsinghua University, supervised by Prof. [Xiaolin Hu (胡晓林)](http://www.xlhu.cn/). I am also a member of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/) directed by Prof. [Bo Zhang (张拨)](https://www.cs.tsinghua.edu.cn/info/1121/3552.htm) and Prof. [Jun zhu (朱军)](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I am an intern at Tencent AI Lab, mainly doing research on causal speech separation, supervised by [Yi Luo (罗艺)](https://scholar.google.com/citations?user=OSM9xooAAAAJ&hl=en).
 
 🤗 &nbsp; These works are open source to the best of my ability.
