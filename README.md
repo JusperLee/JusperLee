@@ -21,7 +21,15 @@ My name is Kai Li (Chinese name: 李凯). I'm a second-year master student at De
 
 #### **:date: News**
 
-#### **Selected Publications:**
+- *2023.07*: 🎲 One paper is accepted by ECAI 2023.
+- *2023.05*: 🧩 Two papers are accepted by Interspeech 2023.
+- *2023.05*: 🎉 We won the **first prize** 🥇 of the [Cinematic Sound Demixing Track 23](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/cinematic-sound-demixing-track-cdx-23/leaderboards) in the **Leaderboard A and B**.
+- *2023.05*: 🎉 We won the **first prize** 🥇 of the ASC23 and Best Application Award.
+- *2023.04*: 🎲 One paper is appeared by Arxiv.
+- *2023.02*: 🧩 One paper is accepted by ICASSP 2023.
+- *2023.01*: 🧩 One paper is accepted by ICLR 2023.
+
+#### **:newspaper: Selected Publications:**
 
 See [Google Scholar](https://scholar.google.com.hk/citations?user=fHkHcMsAAAAJ&hl=en) for a full list of publications.
 
