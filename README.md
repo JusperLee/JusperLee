@@ -17,11 +17,7 @@ My name is Kai Li (Chinese name: 李凯). I'm a second-year master student at De
 
 #### **:bookmark: Homepages**
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" /> : [Kai Li](https://www.linkedin.com/in/%E5%87%AF-%E6%9D%8E-0bb2451a4) 
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/zhihu.svg" />: [Jusper Lee](https://www.zhihu.com/people/li-kai-34-50) 
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/rome.svg" />: [cslikai.cn](https://cslikai.cn)
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" /> : [Kai Li](https://www.linkedin.com/in/%E5%87%AF-%E6%9D%8E-0bb2451a4) &nbsp;&nbsp;&nbsp;   <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/zhihu.svg" />: [Jusper Lee](https://www.zhihu.com/people/li-kai-34-50) &nbsp;&nbsp;&nbsp;   <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/rome.svg" />: [cslikai.cn](https://cslikai.cn)
 
 #### **:date: News**
 
