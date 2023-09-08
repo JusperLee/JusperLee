@@ -17,7 +17,11 @@ My name is Kai Li (Chinese name: 李凯). I'm a second-year master student at De
 
 #### **:bookmark: Homepages**
 
-![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25E5%2587%25AF-%25E6%259D%258E-0bb2451a4&logo=Linkedin&label=Kai%20Li)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fli-kai-34-50&logo=Zhihu&label=Jusper%20Lee) &nbsp;&nbsp;&nbsp; ![](https://img.shields.io/website?url=https%3A%2F%2Fcslikai.cn%2F&logo=Homepage&label=Audiomack)
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" /> : [Kai Li](https://www.linkedin.com/in/%E5%87%AF-%E6%9D%8E-0bb2451a4) 
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/zhihu.svg" />: [Jusper Lee](https://www.zhihu.com/people/li-kai-34-50) 
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/rome.svg" />: [cslikai.cn](https://cslikai.cn)
 
 #### **:date: News**
 
@@ -44,7 +48,7 @@ See [Google Scholar](https://scholar.google.com.hk/citations?user=fHkHcMsAAAAJ&h
 
 **Cloud Removal**
 
--[PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery](https://arxiv.org/pdf/2303.16565.pdf). Xuechao Zou, **Kai Li**, Junliang Xing, Pin Tao#, Yachao Cui. **ECAI 2023**.
+- [PMAA: A Progressive Multi-scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-temporal Satellite Imagery](https://arxiv.org/pdf/2303.16565.pdf). Xuechao Zou, **Kai Li**, Junliang Xing, Pin Tao#, Yachao Cui. **ECAI 2023**.
 
 **Super Resolution**
 
